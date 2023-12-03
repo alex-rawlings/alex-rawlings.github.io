@@ -1,0 +1,10 @@
+---
+layout: default
+img: sami.png
+category: Services
+title: "Featured Article: Spin Ellipticity Tracks"
+description: |
+---
+  The advent of integral field unit spectroscopy allows us to combine both morphological and kinematic data of galaxies.
+  By studying how the ellipticity and spin parameter vary with radius, different galaxy types can be revealed that would not necessarily be distinguishable with just photometry or kinematics alone.
+  The full details of the study can be found in the article [The SAMI Galaxy Survey: rules of behaviour for spin-ellipticity radial tracks in galaxies](https://ui.adsabs.harvard.edu/abs/2020MNRAS.491..324R/abstract).

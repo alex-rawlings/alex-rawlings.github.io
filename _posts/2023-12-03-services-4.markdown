@@ -1,0 +1,8 @@
+---
+layout: default
+img: me.jpeg
+category: Services
+title: "Curriculum Vitae"
+description: |
+---
+  My full curriculum vitae can be found [here]({{ site.base_url }}{% link /assets/rawlings_full.pdf %}) (last updated 03.12.2023).

@@ -24,9 +24,9 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+  #- title: x-twitter
+  #  url: https://twitter.com/alextrawlings
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com/in/alex-rawlings-008478119?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+  - title: github
+    url: https://github.com/alex-rawlings
