@@ -2,14 +2,16 @@
 #      Main Configs       #
 # ----------------------- #
 
+locale: "en-GB"
 url: http://yoursite.com
 title: Alex Rawlings
 email: alexander.rawlings@helsinki.fi
 author: Alex Rawlings
 description: > # "Write an awesome description for your new site here. 
-  Personal webpage for Alex Rawlings astrophysicist University of Helsinki
+  Rawlings Alexander astrophysics Helsinki
 copyright: 'Copyright &copy; 2023 Alex Rawlings. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+breadcrumbs: true
 
 # ----------------------- #
 #    Jekyll & Plugins     #
