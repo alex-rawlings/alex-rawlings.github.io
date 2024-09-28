@@ -8,8 +8,8 @@ title: Alex Rawlings
 email: alexander.rawlings@helsinki.fi
 author: Alex Rawlings
 description: > # "Write an awesome description for your new site here. 
-  Rawlings Alexander astrophysics Helsinki
-copyright: 'Copyright &copy; 2023 Alex Rawlings. All Rights Reserved.'
+  Rawlings Alexander Alex astrophysics Helsinki
+copyright: 'Copyright &copy; 2024 Alex Rawlings. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 breadcrumbs: true
 
@@ -26,9 +26,17 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  #- title: x-twitter
+  #- title: twitter
   #  url: https://twitter.com/alextrawlings
+  - title: email
+    icon: envelope
+    url: mailto:alexander.rawlings@helsinki.fi
   - title: linkedin
+    icon: linkedin
     url: https://www.linkedin.com/in/alex-rawlings-008478119?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
   - title: github
+    icon: github
     url: https://github.com/alex-rawlings
+
+plugins:
+  - jekyll-seo-tag
