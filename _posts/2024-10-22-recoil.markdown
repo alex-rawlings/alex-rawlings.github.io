@@ -5,7 +5,7 @@ category: Services
 title: "Featured Article: Identifying Supermassive Black Hole Recoil"
 description: |
 ---
-  When two supermassive black holes (SMBHs) coalesce during a merger of galaxies, general relativistic effects impart a `recoil velocity' to the remnant SMBH, which can expel the SMBH to large, kiloparsec-scale distances.
+  When two supermassive black holes (SMBHs) coalesce during a merger of galaxies, general relativistic effects impart a 'recoil velocity' to the remnant SMBH, which can expel the SMBH to large, kiloparsec-scale distances.
   We run numerical simulations of merging massive elliptical galaxies, testing a number of recoil velocities, and use Bayesian hierarchical inference to determine how the stellar mass reacts to the recoiling SMBH.
   We additionally detect a kinematic signature, brought about by non angular momentum-conserving stellar orbits, which can uniquely constrain how much stellar mass was lost from the centre before the recoil velocity occurred, allowing us to infer the corresponding recoil velocity.
   The full details of the study can be found in the article [Identifying supermassive black hole recoil in elliptical galaxies](https://arxiv.org/abs/2410.13942v1).
