@@ -1,0 +1,27 @@
+---
+layout: default
+img: meetings.jpeg
+category: Services
+title: "Conferences and Meetings"
+description: |
+---
+### 2025  
+  - Conference organiser: *Advancing Black Hole Modelling across Galactic Scales*, (Helsinki, FI)  
+  - Conference participant: *Dancing in the Dark*, (Sesto, IT)  
+  - Collaboration visit: *Max Planck Institute for Astrophysics*, (Garching, DE)  
+
+### 2024  
+  - Conference participant: *LISA Astrophysics Working Group Meeting*, (Garching, DE)  
+  - Conference participant: *Young Astronomers on Galactic Nuclei*, (Como, IT)  
+  - Collaboration visit: *Max Planck Institute for Astrophysics*, (Garching, DE)  
+  - Conference participant: *Finnish Astronomers' Days*, (Vaasa, FI)  
+  - Conference participant: *Building Galaxies from Scratch*, (Vienna, AT)  
+
+### 2023  
+  - Conference participant: *LISA Astrophysics Working Group Meeting*, (Milan, IT)  
+  - Conference participant: *BayesComp*, (Levi, FI)  
+  - Conference participant: *Nordic Winter School on Gravitational Astrophysics*, (Skeikampen, NO)
+
+### 2022  
+  - Collaboration visit: *Max Planck Institute for Astrophysics*, (Garching, DE)  
+  - Conference participant: *Finnish Astronomers' Days*, (Jyväskylä, FI)  

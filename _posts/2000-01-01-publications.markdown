@@ -2,7 +2,7 @@
 layout: default
 img: publications.png
 category: Services
-title: " All Publications"
+title: "All Publications"
 description: |
 ---
   I have been involved in a number of publications, both as a first and a contributing author.

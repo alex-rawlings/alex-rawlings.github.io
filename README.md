@@ -33,3 +33,6 @@ The contents of this repository are licensed under the [Apache
 
 ## Version
 1.0.1
+
+## Building for testing  
+`bundle exec jekyll serve` to build a local version and see how the website will appear.
