@@ -9,4 +9,4 @@ description: |
   We assess the detectability of this phenomenon for large-scale extragalactic surveys such as Euclid, from which targeted follow-up kinematic observations can be done to confirm the presence of an off-centred SMBH.
   An increased velocity dispersion coinciding with the BRC, detectable with upcoming Extrememly Large Telescope instruments such as MICADO, offer our best chances of confirming these objects.
   Using Gaussian process regression and transformation sampling, we predict that there should be approximately 8000 such BRCs detectable out to redshift 0.6.
-  The full details of the study can be found in the article [Caught in the act: detections of recoiling supermassive black holes from simulations](https://arxiv.org/pdf/2505.17183).
+  The full details of the study can be found in the article [Caught in the act: detections of recoiling supermassive black holes from simulations](https://ui.adsabs.harvard.edu/abs/2025ApJ...991...83R/abstract).

@@ -6,6 +6,8 @@ title: "Conferences and Meetings"
 description: |
 ---
 ### 2025  
+  - Conference participant: *Durham Advanced School on Astrophysical Simulations*, (Durham, UK)
+  - Conference participant: *Young Astronomers on Galactic Nuclei*, (Southhampton, UK)
   - Conference organiser: *Advancing Black Hole Modelling across Galactic Scales*, (Helsinki, FI)  
   - Conference participant: *Dancing in the Dark*, (Sesto, IT)  
   - Collaboration visit: *Max Planck Institute for Astrophysics*, (Garching, DE)  
