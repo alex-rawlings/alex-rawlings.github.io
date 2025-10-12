@@ -10,7 +10,7 @@ The defence will be held in E204, Physicum, at Kumpula Campus.
 For those unable to join in person, the defence will be streamed at [this web address](https://video.helsinki.fi/unitube/live-stream.html?room=l41).
 
 The thesis can be found [here]({{ site.base_url }}{% link /assets/thesis.pdf %}) for your perusal. 
-If you are interested in any of the code used to generate the figures in thesis, they can be found [in the git repository](https://github.com/alex-rawlings/rawlings-phd-thesis).
+If you are interested in any of the code used to generate the figures in the thesis, they can be found [in the git repository](https://github.com/alex-rawlings/rawlings-phd-thesis).
 
 The first-author papers to be discussed in thesis are:  
 - [Reviving stochasticity: uncertainty in SMBH binary eccentricity is unavoidable](https://arxiv.org/pdf/2307.08756)  
