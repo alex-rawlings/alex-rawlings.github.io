@@ -5,7 +5,7 @@ category: Thesis
 title: "Follow my PhD Defence!"
 description: |
 ---
-I will be defending my PhD thesis titled "Supermassive black hole dynamics in massive early-type galaxies" on **November 28th 2025 at 13:00 Finnish time (21:00 AEST)**.
+I will be defending my PhD thesis titled "Supermassive black hole dynamics in massive early-type galaxies" on **November 28th 2025 at 13:00 Finnish time (21:00 AEST, 06:00 EST)**.
 The defence will be held in E204, Physicum, at Kumpula Campus.
 For those unable to join in person, the defence will be streamed at [this web address](https://video.helsinki.fi/unitube/live-stream.html?room=l41).
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-img: recoil.png
+img: btr.pdf
 category: Services
 title: "Featured Article: Identifying Supermassive Black Hole Recoil"
 description: |

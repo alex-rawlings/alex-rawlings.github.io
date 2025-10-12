@@ -1,6 +1,6 @@
 ---
 layout: default
-img: hard_scatter.jpg
+img: hard_scatter.png
 category: Services
 title: "Featured Article: Binary Eccentricity is Stochastic"
 description: |
