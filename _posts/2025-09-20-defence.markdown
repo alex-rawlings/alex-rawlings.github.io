@@ -5,18 +5,18 @@ category: Thesis
 title: "Follow my PhD Defence!"
 description: |
 ---
-I will be defending my PhD thesis titled "Supermassive black hole dynamics in massive early-type galaxies" on **November 28th 2025 at 13:00 Finnish time (21:00 AEST, 06:00 EST)**.
+I will be defending my PhD thesis titled "Supermassive black hole dynamics in massive early-type galaxies" on **November 28th 2025 at 13:00 Helsinki time (21:00 Brisbane, 06:00 New York)**.
 The defence will be held in E204, Physicum, at Kumpula Campus.
 For those unable to join in person, the defence will be streamed at [this web address](https://video.helsinki.fi/unitube/live-stream.html?room=l41).
 
-The thesis can be found [here]({{ site.base_url }}{% link /assets/thesis.pdf %}) for your perusal. 
-If you are interested in any of the code used to generate the figures in the thesis, they can be found [in the git repository](https://github.com/alex-rawlings/rawlings-phd-thesis).
+**The thesis can be found [here]({{ site.base_url }}{% link /assets/thesis.pdf %}){:target="_blank"} for your perusal.**  
+If you are interested in any of the codes used to generate the figures in the thesis, they can be found [in the git repository](https://github.com/alex-rawlings/rawlings-phd-thesis){:target="_blank"}.
 
 The first-author papers to be discussed in thesis are:  
-- [Reviving stochasticity: uncertainty in SMBH binary eccentricity is unavoidable](https://arxiv.org/pdf/2307.08756)  
-- [Identifying supermassive black hole recoil in elliptical galaxies](https://arxiv.org/pdf/2410.13942)  
-- [Caught in the act: detections of recoiling supermassive black holes from simulations](https://arxiv.org/pdf/2505.17183)  
+- [Reviving stochasticity: uncertainty in SMBH binary eccentricity is unavoidable](https://arxiv.org/pdf/2307.08756){:target="_blank"}  
+- [Identifying supermassive black hole recoil in elliptical galaxies](https://arxiv.org/pdf/2410.13942){:target="_blank"}  
+- [Caught in the act: detections of recoiling supermassive black holes from simulations](https://arxiv.org/pdf/2505.17183){:target="_blank"}  
 
 The second-author papers to be discussed in thesis are:  
-- [KETJU - resolving small-scale supermassive black hole dynamics in GADGET-4](https://arxiv.org/pdf/2306.04963)  
-- [The supermassive black hole merger-driven evolution of high-redshift red nuggets into present-day cored early-type galaxies](https://arxiv.org/pdf/2407.18303)  
+- [KETJU - resolving small-scale supermassive black hole dynamics in GADGET-4](https://arxiv.org/pdf/2306.04963){:target="_blank"}  
+- [The supermassive black hole merger-driven evolution of high-redshift red nuggets into present-day cored early-type galaxies](https://arxiv.org/pdf/2407.18303){:target="_blank"}  
