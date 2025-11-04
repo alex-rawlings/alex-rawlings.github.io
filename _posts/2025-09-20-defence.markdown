@@ -12,11 +12,11 @@ For those unable to join in person, the defence will be streamed at [this web ad
 **The thesis can be found [here]({{ site.base_url }}{% link /assets/thesis.pdf %}){:target="_blank"} for your perusal.**  
 If you are interested in any of the codes used to generate the figures in the thesis, they can be found [in the git repository](https://github.com/alex-rawlings/rawlings-phd-thesis){:target="_blank"}.
 
-The first-author papers to be discussed in thesis are:  
+The first-author papers to be discussed in the thesis are:  
 - [Reviving stochasticity: uncertainty in SMBH binary eccentricity is unavoidable](https://arxiv.org/pdf/2307.08756){:target="_blank"}  
 - [Identifying supermassive black hole recoil in elliptical galaxies](https://arxiv.org/pdf/2410.13942){:target="_blank"}  
 - [Caught in the act: detections of recoiling supermassive black holes from simulations](https://arxiv.org/pdf/2505.17183){:target="_blank"}  
 
-The second-author papers to be discussed in thesis are:  
+The second-author papers to be discussed in the thesis are:  
 - [KETJU - resolving small-scale supermassive black hole dynamics in GADGET-4](https://arxiv.org/pdf/2306.04963){:target="_blank"}  
 - [The supermassive black hole merger-driven evolution of high-redshift red nuggets into present-day cored early-type galaxies](https://arxiv.org/pdf/2407.18303){:target="_blank"}  
